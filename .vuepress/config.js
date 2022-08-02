@@ -15,4 +15,5 @@ module.exports = {
   repoLabel: "查看源码",
   editLinks: true,
   editLinkText: "帮助我们改善此页面！",
+  smoothScroll: true,
 };
