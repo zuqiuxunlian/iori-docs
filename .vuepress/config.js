@@ -4,12 +4,13 @@ module.exports = {
   description: "小孩子都会用的计时器，教练的好帮手",
   base: "/iori/",
   themeConfig: {
-    // logo: "/assets/img/logo.png",
+    logo: "/logo.jpg",
     nav: [
       { text: "主页", link: "/" },
       { text: "指南", link: "/guide/" },
       //   { text: "External", link: "https://google.com" },
     ],
+    sidebar: "auto",
     smoothScroll: true,
     lastUpdated: "Last Updated", // string | boolean
   },
