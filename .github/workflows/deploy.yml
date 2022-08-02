@@ -1,0 +1,33 @@
+# This workflow will do build and deploy to oss.
+
+name: deploy
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 14
+      - uses: manyuanrong/setup-ossutil@v2.0
+        with:
+          endpoint: oss-cn-shenzhen.aliyuncs.com
+          access-key-id: ${{ secrets.ACCESS_KEY_ID }}
+          access-key-secret: ${{ secrets.ACCESS_KEY_SECRET }}
+      - name: build docs
+        run: |
+          npm ci
+          npm run docs:build
+          ls .vuepress/dist
+      - name: upload to OSS
+        run: |
+          ossutil cp -rf .vuepress/dist oss://yiqiti-website/iori
