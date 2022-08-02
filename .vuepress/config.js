@@ -10,6 +10,7 @@ module.exports = {
       { text: "指南", link: "/guide/" },
       //   { text: "External", link: "https://google.com" },
     ],
+    lastUpdated: "Last Updated", // string | boolean
   },
   repo: "zuqiuxunlian/iori-docs",
   repoLabel: "查看源码",
