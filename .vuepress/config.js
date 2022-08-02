@@ -13,7 +13,6 @@ module.exports = {
   },
   repo: "zuqiuxunlian/iori-docs",
   repoLabel: "查看源码",
-  docsRepo: "vuejs/vuepress",
   editLinks: true,
   editLinkText: "帮助我们改善此页面！",
 };
