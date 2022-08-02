@@ -21,10 +21,10 @@ features:
 # footer: Copyright © 2022 一起踢足球训练营
 ---
 
-# 操作简单
-
-![Iori方案](./images/brilliant.png)
+<div align=center>
+<img src="./images/brilliant.png"/>
+</div>
 
 ::: slot footer
-Copyright © 2015-2022 [一起踢足球训练营](https://zuqiuxunlian.com)
+Copyright © 2021-2022 一起踢足球训练营
 :::
