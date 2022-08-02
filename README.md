@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.jpg
+heroImage: null
 heroText: 一起踢教练计时器IORI
 tagline: 小孩都会用的计时器，教练的好帮手
 actionText: 快速上手 →

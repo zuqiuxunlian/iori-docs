@@ -13,9 +13,9 @@ module.exports = {
     sidebar: "auto",
     smoothScroll: true,
     lastUpdated: "Last Updated", // string | boolean
+    // repo: "zuqiuxunlian/iori-docs",
+    // repoLabel: "查看源码",
+    // editLinks: true,
+    // editLinkText: "帮助我们改善此页面！",
   },
-  repo: "zuqiuxunlian/iori-docs",
-  repoLabel: "查看源码",
-  editLinks: true,
-  editLinkText: "帮助我们改善此页面！",
 };
