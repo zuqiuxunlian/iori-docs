@@ -18,4 +18,13 @@ module.exports = {
     // editLinks: true,
     // editLinkText: "帮助我们改善此页面！",
   },
+  plugins: [
+    [
+      "vuepress-plugin-baidu-tongji-analytics",
+      {
+        key: "86b7ffbe3429f402fed4ed377ecdfcad",
+        dev: true,
+      },
+    ],
+  ],
 };
