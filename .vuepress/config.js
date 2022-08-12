@@ -4,7 +4,7 @@ module.exports = {
   description: "小孩子都会用的计时器，教练的好帮手",
   base: "/iori/",
   themeConfig: {
-    logo: "/logo.jpg",
+    // logo: "/logo.jpg",
     nav: [
       { text: "主页", link: "/" },
       { text: "指南", link: "/guide/" },
@@ -23,7 +23,7 @@ module.exports = {
       "vuepress-plugin-baidu-tongji-analytics",
       {
         key: "86b7ffbe3429f402fed4ed377ecdfcad",
-        dev: true,
+        dev: false,
       },
     ],
   ],
