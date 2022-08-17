@@ -29,6 +29,8 @@ module.exports = {
             link: "https://www.bilibili.com/video/BV1ZN4y1G7u7",
           },
         ],
+        lastUpdated: "上次更新", // string | boolean
+        editLinkText: "帮助我们改善此页面！",
       },
       "/en/": {
         selectText: "Languages",
@@ -43,19 +45,16 @@ module.exports = {
           //   link: "https://www.bilibili.com/video/BV1ZN4y1G7u7",
           // },
         ],
-        repo: "zuqiuxunlian/iori-docs",
-        repoLabel: "Github",
-        editLinks: true,
+        lastUpdated: "Last Updated", // string | boolean
         editLinkText: "Edit this page on GitHub",
       },
     },
     sidebar: "auto",
     smoothScroll: true,
-    lastUpdated: "Last Updated", // string | boolean
     repo: "zuqiuxunlian/iori-docs",
-    // repoLabel: "查看源码",
-    // editLinks: true,
-    // editLinkText: "帮助我们改善此页面！",
+    docsBranch: "main",
+    repoLabel: "Github",
+    editLinks: true,
   },
   plugins: [
     [
