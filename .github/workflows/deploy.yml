@@ -27,7 +27,7 @@ jobs:
         run: |
           npm ci
           npm run docs:build
-          ls .vuepress/dist
+          ls docs/.vuepress/dist
       - name: upload to OSS
         run: |
           ossutil cp -rf docs/.vuepress/dist oss://yiqiti-website/iori
