@@ -8,10 +8,8 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 
 我个人是组织了一个非营利的成人足球训练营，会保持一周一练。另外会给一些青训俱乐部做周末兼职教练。在长期的训练中一直存在如何评估队员的问题。
 
-> evaluation tests, which involve practical exercises designed specifically to obtain the most precise and objective data possible from the basic game components forming part of the teaching content. This type of evaluation is also known as the quantitative method.
->
-> 评估测试，指为从构成教学内容的基本游戏内容中获得最精确、最客观的数据而专门设计的实践练习。这种类型的评估也被称为定量方法。
->
+> Evaluation tests, which involve practical exercises designed specifically to obtain the most precise and objective data possible from the basic game components forming part of the teaching content. This type of evaluation is also known as the quantitative method.  
+> 评估测试，指为从构成教学内容的基本游戏内容中获得最精确、最客观的数据而专门设计的实践练习。这种类型的评估也被称为定量方法。  
 > —— UEFA Fusal Coaching Manual
 
 评估是训练中必不可少的一环，那我们有没有趁手的工具呢？
