@@ -30,4 +30,4 @@ jobs:
           ls .vuepress/dist
       - name: upload to OSS
         run: |
-          ossutil cp -rf .vuepress/dist oss://yiqiti-website/iori
+          ossutil cp -rf docs/.vuepress/dist oss://yiqiti-website/iori
