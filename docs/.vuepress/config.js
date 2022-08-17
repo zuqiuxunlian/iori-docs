@@ -36,7 +36,7 @@ module.exports = {
         selectText: "Languages",
         label: "English",
         ariaLabel: "Languages",
-        lastUpdated: "Last Updated",
+        // lastUpdated: "Last Updated",
         nav: [
           { text: "Home", link: "/en/" },
           { text: "Guide", link: "/en/guide/" },
@@ -46,15 +46,15 @@ module.exports = {
           // },
         ],
         lastUpdated: "Last Updated", // string | boolean
-        editLinkText: "Edit this page on GitHub",
+        // editLinkText: "Edit this page on GitHub",
       },
     },
     sidebar: "auto",
     smoothScroll: true,
-    repo: "zuqiuxunlian/iori-docs",
-    docsBranch: "main",
-    repoLabel: "Github",
-    editLinks: true,
+    // repo: "zuqiuxunlian/iori-docs",
+    // docsBranch: "main",
+    // repoLabel: "Github",
+    // editLinks: true,
   },
   plugins: [
     [
