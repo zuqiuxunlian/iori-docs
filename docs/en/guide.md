@@ -35,13 +35,13 @@ The non-contact way to judge the start and end is indeed the most accurate way a
 ![iori](./images/guide.jpg)
 
 1. Turn on the switch on the right, the IORI logo will be displayed on the screen, and the button light is blue.
-2. Press and hold the button. The READY sign is displayed on the screen and the button indicator is yellow.
+2. Press and hold the button. The READY sign is displayed on the screen and the button light is yellow.
 3. Release the button to start the timing immediately. The screen shows the stopwatch timing, and the button light is green.
-4. Press the button again to stop the timer. The screen displays the duration, and the button indicator is red.
+4. Press the button again to stop the timer. The screen displays the duration, and the button light is red.
 5. Long press the button to enter the ready state again. The button light will turn blue and then orange.
 6. Or press short to continue timing, and the button light will display green again.
 
-[operation video] (https://www.bilibili.com/video/BV1fv4y1F7oB)
+[Operation video](https://www.bilibili.com/video/BV1fv4y1F7oB)
 
 Connect the mobile phone to automatically record video
 
@@ -54,7 +54,7 @@ Connect the mobile phone to automatically record video
 5. Release the IORI button to continue recording
 6. Press the IORI button again to stop video recording
 
-[control mobile video operation video] (https://www.bilibili.com/video/BV1vU4y1r7K5)
+[Control phone record video](https://www.bilibili.com/video/BV1vU4y1r7K5)
 
 ::: tip
 After the connection is successful, it will be automatically connected every time the machine starts up. If you want to connect to another phone, you need to disconnect this phone or it's out of range.
@@ -98,7 +98,7 @@ The T-test includes sprints, slowdowns, sidelights, and backpedals, which are th
 
 ### 60 ball juggling challenges
 
-The time it takes to complete 60 ball flips. Drop the ball can be picked up to continue, the number continues to accumulate until the number of 60.
+The time it takes to complete 60 ball juggle. Drop the ball can be picked up to continue, the number continues to accumulate until the number of 60.
 
 ## About us
 
