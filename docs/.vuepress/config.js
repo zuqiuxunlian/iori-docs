@@ -2,6 +2,22 @@
 module.exports = {
   base: "/iori/",
   // head: [["meta", { name: "theme-color", content: "#3eaf7c" }]],
+  head: [
+    [
+      "script",
+      {
+        async: true,
+        src: "https://www.googletagmanager.com/gtag/js?id=G-42RC5BYH40",
+      },
+    ],
+    [
+      "script",
+      {},
+      [
+        "window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-42RC5BYH40');",
+      ],
+    ],
+  ],
   locales: {
     "/": {
       lang: "zh-CN",
