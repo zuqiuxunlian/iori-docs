@@ -9,6 +9,7 @@
   "author": "Jump T. Wong, awong1900@163.com",
   "license": "MIT License",
   "devDependencies": {
+    "@vuepress/plugin-google-analytics": "^1.9.7",
     "prettier": "^2.7.1",
     "vuepress": "^1.9.7"
   },

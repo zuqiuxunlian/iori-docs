@@ -64,5 +64,11 @@ module.exports = {
         dev: false,
       },
     ],
+    [
+      "@vuepress/google-analytics",
+      {
+        ga: "G-42RC5BYH40",
+      },
+    ],
   ],
 };
