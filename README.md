@@ -2,10 +2,10 @@
 
 An alternative to expensive timing equipment for personal and community coaches.
 
-![IORI](./docs/images/brilliant.png)
+![IORI](./docs/images/brilliant.png)  
 Our simple and easy to operate scheme
 
-![Expensive equipment](./docs/images/expensive.jpg)
+![Expensive equipment](./docs/images/expensive.jpg)  
 Expensive and complex equipment to operate
 
 ## Document
