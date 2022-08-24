@@ -16,7 +16,10 @@ features:
 ---
 
 <div align=center>
-<img src="./images/brilliant.png"/>
+<img src="./images/iori-1.jpg" width="438"/>
+<img src="./images/iori-2.jpg" width="400"/>
+<img src="./images/iori-3.jpg" width="838"/>
+<img src="./images/brilliant.png" width="838"/>
 </div>
 
 ::: slot footer
