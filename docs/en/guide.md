@@ -32,7 +32,7 @@ The non-contact way to trigge the start and end is indeed the most accurate way 
 
 ## Getting Started
 
-![iori](./images/guide.jpg)
+<img src="./images/guide.jpg" width="500"/>
 
 1. Turn on the Power switch on the right, the IORI logo will be displayed on the screen, and the button light is blue.
 2. Press and hold the button. The READY sign is displayed on the screen and the button light is yellow.
@@ -41,7 +41,7 @@ The non-contact way to trigge the start and end is indeed the most accurate way 
 5. Long press the button to enter the ready state again. The button light will turn blue and then orange.
 6. Or press short to continue timing, and the button light will display green again.
 
-[Operation video](https://www.instagram.com/p/ChpD4SrAQOn/)
+[Operation Video](https://www.instagram.com/p/ChpD4SrAQOn/)
 
 ## Connect your phone to automatically record video
 
@@ -54,7 +54,7 @@ The non-contact way to trigge the start and end is indeed the most accurate way 
 5. Release the button to continue recording
 6. Press the IORI button again to stop video recording
 
-[Remote Control for iPhone/Android](https://www.instagram.com/p/ChpEZSDAY84/)
+[Remote Control for iPhone/Android Video](https://www.instagram.com/p/ChpEZSDAY84/)
 
 ::: tip
 With the mobile phone tripod, it is convenient to record the movements of the team members one by one.
@@ -82,7 +82,7 @@ This is perfect for the post-training group photo with Use a mobile phone tripod
 2. Place the IORI timer on the tray
 3. Lock from below using the supplied screws
 
-![tripod](./images/tripod.png)
+<img src="./images/tripod.png" width="500"/>
 
 ## Charging instructions
 
@@ -103,15 +103,11 @@ Of course, we can also just take it as a mobile phone remote controller, with mo
 
 The T-test includes accelerate, decelerate, shuffle, and backward, which are the basic movements required in soccer. Standard movement, and shorter completion time, the stronger the athletic ability.
 
-[T test](https://www.instagram.com/p/CgziY7tAAVw/)
+[T test video](https://www.instagram.com/p/CgziY7tAAVw/)
 
 ### 60 ball juggling challenge
 
 The time it takes to complete 60 ball juggle. Drop the ball can be picked up to continue, the number continues to accumulate until the number of 60.
-
-## Feedback your suggestions
-
-[Discord](https://discord.gg/3jR79tHb)
 
 ## Early trial purchase
 
@@ -121,7 +117,7 @@ The product is not officially on sale yet. But I would love to hear feedback fro
 
 | Package                                                            | Cost   |
 | ------------------------------------------------------------------ | ------ |
-| Timer x1:                                                          | US$ 60 |
+| Timer x1                                                           | US$ 60 |
 | Timer x1 + Quick Release Plate(suitable for most camera tripod) x1 | US$ 70 |
 | Timer x1 + Heavy Tripod with Tray(height range 62-120cm) x1        | US$ 80 |
 | Timer x1 + Quick Release Plate x1 + Heavy Tripod with Tray x1      | US$ 90 |
@@ -152,13 +148,16 @@ I want to keep shipping costs to a minimum. This is the best price I can get at 
 
 You will be responsible for paying local Tax and duties when applicable. You will not always be required to pay duties or import tax, but it is important that you make yourself aware of the duties that apply in your country in case you are charged.
 
-### Register to buy
+### Contact Us
 
-I'd like to better understand your needs. Please fill out this registration form [Register](https://forms.gle/Rt7e3TRPQyjXVVxJ9). Then contact me with facebook messenger.
+You can contact me on Facebook or Discord.
 
-Facebook id: [https://www.facebook.com/awong1900](https://www.facebook.com/awong1900)
+<!-- I'd like to better understand your needs. Please fill out this registration form [Register](https://forms.gle/Rt7e3TRPQyjXVVxJ9). Then contact me with facebook messenger. -->
 
-Paypal link: [https://paypal.me/awong1900](https://paypal.me/awong1900)
+- Facebook Account: [https://www.facebook.com/awong1900](https://www.facebook.com/awong1900)
+- Discord Group: [https://discord.gg/3jR79tHb](https://discord.gg/3jR79tHb)
+
+<!-- Paypal link: [https://paypal.me/awong1900](https://paypal.me/awong1900) -->
 
 ## About Us
 

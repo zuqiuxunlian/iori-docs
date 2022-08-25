@@ -37,7 +37,9 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 
 ## 快速上手
 
-![iori](./images/guide.jpg)
+<img src="./images/guide.jpg" width="500"/>
+
+<!-- ![iori](./images/guide.jpg) -->
 
 1. 打开右侧开关，屏幕随即显示 IORI 标志，按钮灯为蓝色。
 2. 长按按钮，屏幕显示为 READY 标志，按钮灯为黄色。
@@ -46,11 +48,11 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 5. 长按按钮，重新进入准备状态，按钮灯会变为蓝色再变为橙色。
 6. 或者短按，则继续计时，按钮灯重新显示绿色。
 
-[操作视频](https://www.bilibili.com/video/BV1fv4y1F7oB)
+<!-- [操作视频](https://www.bilibili.com/video/BV1fv4y1F7oB) -->
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=556897732&bvid=BV1fv4y1F7oB&cid=801275173&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
 ## 连接手机自动录像
-
-![操作图示](./images/operation.png)
 
 1. 打开 IORI 计时器
 2. 打开手机的蓝牙，搜索设备名为 "IORI" 连接
@@ -59,7 +61,11 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 5. 松开 IORI 按钮，视频录制继续
 6. 再次按下 IORI 按钮，视频录制停止
 
-[控制手机录像操作视频](https://www.bilibili.com/video/BV1vU4y1r7K5)
+<!-- [控制手机录像操作视频](https://www.bilibili.com/video/BV1vU4y1r7K5) -->
+
+![操作图示](./images/operation.png)
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=687092505&bvid=BV1vU4y1r7K5&cid=803477016&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
 ::: tip
 搭配手机三脚架，可以方便的把队员的动作都逐个记录下来。
@@ -87,7 +93,8 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 2. 把 IORI 计时器放置在托盘
 3. 使用附送的螺丝从下面锁紧
 
-![tripod](./images/tripod.png)
+<!-- ![tripod](./images/tripod.png) -->
+<img src="./images/tripod.png" width="500"/>
 
 ## 充电指导
 
@@ -108,13 +115,21 @@ IORI 计时器可以完成所有的起点和结束点一致的测试。比如折
 
 T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这些是足球所需要的步伐。动作标准，完成时间越短，证明有更强的运动能力。
 
-[T 字测试指导](https://www.bilibili.com/video/BV1p34y187aF?share_source=copy_web&vd_source=5211f4704c635d72a56e387a10a3f656)
+<!-- [T 字测试指导](https://www.bilibili.com/video/BV1p34y187aF?share_source=copy_web&vd_source=5211f4704c635d72a56e387a10a3f656)
 
-[T 字测试合集](https://www.bilibili.com/video/BV16a411M7ko?share_source=copy_web&vd_source=5211f4704c635d72a56e387a10a3f656)
+[T 字测试合集](https://www.bilibili.com/video/BV16a411M7ko?share_source=copy_web&vd_source=5211f4704c635d72a56e387a10a3f656) -->
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=809672045&bvid=BV1p34y187aF&cid=549031180&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<div align=center>T 字测试指导</div>
+<br>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=899525712&bvid=BV1ZN4y1G7u7&cid=805073937&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<div align=center>IORI T 字测试</div>
 
 ### 60 个颠球挑战
 
 完成 60 个颠球所需要的时间。球掉可以捡起继续，数量继续累积，直至达到 60 个。
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=857066330&bvid=BV1tV4y1s7jB&cid=805494948&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
 ## 反馈您的建议
 
