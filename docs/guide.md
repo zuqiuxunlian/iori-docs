@@ -67,11 +67,11 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=687092505&bvid=BV1vU4y1r7K5&cid=803477016&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
-::: tip
+::: tip 提示
 搭配手机三脚架，可以方便的把队员的动作都逐个记录下来。
 :::
 
-::: tip
+::: tip 提示
 连接成功后，以后每次开机都会自动连接。如果你想连接到另外一部手机，需要断开这台手机的连接或者这台手机不在连接范围内。
 :::
 
@@ -83,7 +83,7 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 4. 按住 IORI 按钮，松开
 5. 连续短按 IORI 按钮，每次按下就是一次抓拍
 
-::: tip
+::: tip 提示
 搭配手机三脚架，特别适合训练后的大合照。
 :::
 
@@ -94,14 +94,20 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 3. 使用附送的螺丝从下面锁紧
 
 <!-- ![tripod](./images/tripod.png) -->
-<img src="./images/tripod.png" width="500"/>
+<img src="./images/tripod.png" width="350"/>
 
 ## 充电指导
 
-正常情况，电池充满，可以连续使用 10 小时。  
-充电使用 Type-C 接口进行充电，5V1A 的充电器充满需要 3 小时。记住把电源开关打开。
+使用充电器和 type-C 线给设备充电，同时**把电源开关打开**。  
+5V1A 的充电器充满需要 3 小时。
 
-::: tip
+正常情况，电池充满可以连续使用 10 小时。
+
+::: danger 不建议
+Mac 电脑 type-C 直接输出不可以充电。
+:::
+
+::: tip 提示
 可以使用计时器记录充电时间。
 :::
 
@@ -137,12 +143,12 @@ T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这
 
 ## 官方购买渠道
 
-教练立减 30 元，提供带队训练照片即可。
+<img src="./images/shop.jpg" width="350"/>
 
-![小程序商城](./images/shop.jpg)
+<!-- ![小程序商城](./images/shop.jpg) -->
 
 ## 关于我们
 
-产品由深圳[一起踢足球训练营](https://zuqiuxunlian.com)团队设计。
+产品由深圳[一起踢足球训练营](https://zuqiuxunlian.com)团队设计。联系人：王教练（微信：awong1900）。
 
-非常感谢：深圳 FC116 俱乐部 卢教练、Juca Grajaú（巴西）、深圳流浪者教练 杨斌、厦门教练 许建宁、武汉黄陂剑箫 杨教练、足球教练沙龙 赵瑞田，在开发和测试过程中给了很多有益的建议。
+非常感谢：深圳 FC116 俱乐部 卢教练、Juca Grajaú（巴西）、深圳流浪者教练 杨斌、厦门教练 许建宁、武汉黄陂剑箫 杨教练、足球教练沙龙 赵瑞田，深圳 f2soccer 申成男，在开发和测试过程中给了很多有益的建议。
