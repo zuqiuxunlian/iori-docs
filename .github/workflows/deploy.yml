@@ -20,7 +20,7 @@ jobs:
           node-version: 14
       - uses: manyuanrong/setup-ossutil@v2.0
         with:
-          endpoint: oss-cn-shenzhen.aliyuncs.com
+          endpoint: yiqiti-website.oss-accelerate.aliyuncs.com
           access-key-id: ${{ secrets.ACCESS_KEY_ID }}
           access-key-secret: ${{ secrets.ACCESS_KEY_SECRET }}
       - name: build docs
