@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /iori.jpeg
-heroText: 一起踢训练计时器IORI
+heroText: IORI训练计时器
 tagline: 小孩都会用的计时器，训练的好帮手
 actionText: 快速上手 →
 actionLink: /guide/
