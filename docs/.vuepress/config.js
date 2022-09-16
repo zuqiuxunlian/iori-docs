@@ -1,8 +1,19 @@
 // .vuepress/config.js
 module.exports = {
   base: "/iori/",
-  // head: [["meta", { name: "theme-color", content: "#3eaf7c" }]],
   head: [
+    [
+      "meta",
+      {
+        name: "keywords",
+        content: "IORI计时器,IORI Timer,计时器,IORI,Timer,一起踢",
+      },
+    ],
+    [
+      "meta",
+      { name: "viewport", content: "width=device-width, initial-scale=1" },
+    ],
+
     [
       "script",
       {
@@ -84,6 +95,12 @@ module.exports = {
       "@vuepress/google-analytics",
       {
         ga: "G-42RC5BYH40",
+      },
+    ],
+    [
+      "sitemap",
+      {
+        hostname: "https://zuqiuxunlian.com/iori/",
       },
     ],
   ],

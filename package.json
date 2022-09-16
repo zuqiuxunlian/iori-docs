@@ -1,7 +1,7 @@
 {
   "name": "iori-docs",
   "version": "1.0.0",
-  "description": "",
+  "description": "IORI Timer",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
@@ -12,6 +12,7 @@
     "@vuepress/plugin-google-analytics": "^1.9.7",
     "prettier": "^2.7.1",
     "vuepress": "^1.9.7",
-    "vuepress-plugin-baidu-tongji-analytics": "^1.0.2"
+    "vuepress-plugin-baidu-tongji-analytics": "^1.0.2",
+    "vuepress-plugin-sitemap": "^2.3.1"
   }
 }
