@@ -103,5 +103,13 @@ module.exports = {
         hostname: "https://zuqiuxunlian.com/iori/",
       },
     ],
+    [
+      "@vuepress/last-updated",
+      {
+        transformer: (timestamp, lang) => {
+          return new Date(timestamp).toLocaleDateString();
+        },
+      },
+    ],
   ],
 };
