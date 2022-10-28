@@ -1,9 +1,9 @@
 ---
 home: true
 heroImage: /iori.jpeg
-heroText: IORI训练计时器
-tagline: 小孩都会用的计时器，训练的好帮手
-actionText: 快速上手 →
+heroText: IORI计时器
+tagline: 足球训练秒表｜比赛计时｜手机视频录制拍照控制器
+actionText: 一点点改变，汇聚力量 →
 actionLink: /guide/
 features:
   - title: 操作简单
