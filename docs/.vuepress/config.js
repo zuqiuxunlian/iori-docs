@@ -55,6 +55,10 @@ module.exports = {
             text: "视频合集",
             link: "https://www.bilibili.com/video/BV1ZN4y1G7u7",
           },
+          {
+            text: "教练试用申请",
+            link: "https://docs.qq.com/form/page/DUmFoaXlCQnZQU3Zz",
+          },
         ],
         lastUpdated: "上次更新", // string | boolean
         editLinkText: "帮助我们改善此页面！",

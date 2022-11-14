@@ -143,9 +143,15 @@ T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这
 
 ## 官方购买渠道
 
-<img src="./images/shop.jpg" width="350"/>
+微信小商店：[#小程序://一起踢的小店/IORI 训练计时器/kLN9uiTQ5PrB0KC](https://mmbizurl.cn/s/GlO1xeXyv)
 
-<!-- ![小程序商城](./images/shop.jpg) -->
+淘宝：[https://item.taobao.com/item.htm?ft=t&id=687250935119](https://item.taobao.com/item.htm?ft=t&id=687250935119)
+
+## 教练可申请样品试用
+
+带队的教练，无论您是社区教练还是青训教练，都可以申请样品试用。只需填写申请表，提供带队照片即可。
+
+[【腾讯文档】IORI 计时器教练试用申请表](https://docs.qq.com/form/page/DUmFoaXlCQnZQU3Zz)
 
 ## 关于我们
 
