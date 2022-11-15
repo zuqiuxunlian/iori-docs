@@ -3,7 +3,7 @@ home: true
 heroImage: /iori.jpeg
 heroText: IORI计时器
 tagline: 足球训练秒表｜比赛计时｜手机视频录制拍照控制器
-actionText: 一点点改变，汇聚力量 →
+actionText: 一点点改变，大大的不同 →
 actionLink: /guide/
 features:
   - title: 操作简单
