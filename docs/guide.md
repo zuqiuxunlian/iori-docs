@@ -137,10 +137,6 @@ T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=857066330&bvid=BV1tV4y1s7jB&cid=805494948&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
-## 反馈您的建议
-
-[吐槽有礼品。](https://support.qq.com/product/422185)
-
 ## 官方购买渠道
 
 微信小商店：[#小程序://一起踢的小店/IORI 训练计时器/kLN9uiTQ5PrB0KC](https://mmbizurl.cn/s/GlO1xeXyv)
@@ -158,3 +154,7 @@ T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这
 产品由深圳[一起踢足球训练营](https://zuqiuxunlian.com)团队设计。联系人：王教练（微信 awong1900）。
 
 非常感谢：深圳 FC116 俱乐部 卢教练、Juca Grajaú（巴西）、深圳流浪者教练 杨斌、厦门教练 许建宁、武汉黄陂剑箫 杨教练、足球教练沙龙 赵瑞田，深圳 f2soccer 申成男，在开发和测试过程中给了很多有益的建议。
+
+## 反馈您的建议
+
+[吐槽有礼品。](https://support.qq.com/product/422185)

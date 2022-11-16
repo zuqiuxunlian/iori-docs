@@ -51,6 +51,7 @@ module.exports = {
         nav: [
           { text: "主页", link: "/" },
           { text: "指南", link: "/guide/" },
+          { text: "购买", link: "/guide.html#官方购买渠道" },
           {
             text: "视频合集",
             link: "https://www.bilibili.com/video/BV1ZN4y1G7u7",
