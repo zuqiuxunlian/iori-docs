@@ -25,5 +25,5 @@ features:
 </div>
 
 ::: slot footer
-Copyright © 2021-2022 Yiqiti Football Camp
+Copyright © 2021-2023 Yiqiti Football Camp
 :::
