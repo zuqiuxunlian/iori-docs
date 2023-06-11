@@ -35,7 +35,7 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 - 连接手机，远程同步控制录制视频，分段记录，更容易整理
 - 创造竞争的训练氛围，促进提高所有人的运动表现
 
-## 快速上手
+## 快速计时
 
 <img src="./images/guide.jpg" width="500"/>
 
@@ -48,11 +48,11 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 5. 长按按钮，重新进入准备状态，按钮灯会变为蓝色再变为橙色。
 6. 或者短按，则继续计时，按钮灯重新显示绿色。
 
-<!-- [操作视频](https://www.bilibili.com/video/BV1fv4y1F7oB) -->
+<!-- 【IORI计时器快速操作指南】 https://www.bilibili.com/video/BV1Aj411X78K -->
 
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=556897732&bvid=BV1fv4y1F7oB&cid=801275173&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=444703015&bvid=BV1Aj411X78K&cid=1160533141&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
-## 连接手机自动录像
+## 自动录像
 
 1. 打开 IORI 计时器
 2. 打开手机的蓝牙，搜索设备名为 "IORI" 连接
@@ -75,7 +75,7 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 连接成功后，以后每次开机都会自动连接。如果你想连接到另外一部手机，需要断开这台手机的连接或者这台手机不在连接范围内。
 :::
 
-## 连接手机自拍
+## 自动拍照
 
 1. 打开 IORI 计时器
 2. 打开手机的蓝牙，搜索设备名为 IORI 连接
@@ -87,7 +87,7 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 搭配手机三脚架，特别适合训练后的大合照。
 :::
 
-## 安装到三脚架
+## 使用三脚架
 
 1. 从三脚架上取下托盘
 2. 把 IORI 计时器放置在托盘
@@ -98,10 +98,10 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 
 ## 充电指导
 
-使用充电器和 type-C 线给设备充电，同时**把电源开关打开**。  
+使用type-C充电器给设备充电，同时**把电源开关打开**。  
 5V1A 的充电器充满需要 3 小时。
 
-正常情况，电池充满可以连续使用 10 小时。
+正常情况，电池充满可以连续使用 12 小时以上。
 
 ::: danger 不建议
 Mac 电脑 type-C 直接输出不可以充电。
@@ -131,17 +131,19 @@ T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=899525712&bvid=BV1ZN4y1G7u7&cid=805073937&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 <div align=center>IORI T 字测试</div>
 
-### 60 个颠球挑战
-
-完成 60 个颠球所需要的时间。球掉可以捡起继续，数量继续累积，直至达到 60 个。
+### 足球综合测试
+1. 连续触球30次的时间
+2. 颠球30次的时间
+3. 4个碟子折返跑（无球）
+4. 4个碟子折返跑（带球）
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=857066330&bvid=BV1tV4y1s7jB&cid=805494948&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
 ## 官方购买渠道
 
-微信小商店：[#小程序://一起踢的小店/IORI 训练计时器/kLN9uiTQ5PrB0KC](https://mmbizurl.cn/s/GlO1xeXyv)
-
 淘宝：[https://item.taobao.com/item.htm?ft=t&id=687250935119](https://item.taobao.com/item.htm?ft=t&id=687250935119)
+抖音号：一起踢足球训练营，橱窗可购买
+视频号：一起踢足球训练营，橱窗可购买
 
 ## 教练可申请样品试用
 
@@ -154,6 +156,9 @@ T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这
 产品由深圳[一起踢足球训练营](https://zuqiuxunlian.com)团队设计。联系人：王教练（微信 awong1900）。
 
 非常感谢：深圳 FC116 俱乐部 卢教练、Juca Grajaú（巴西）、深圳流浪者教练 杨斌、厦门教练 许建宁、武汉黄陂剑箫 杨教练、足球教练沙龙 赵瑞田，深圳 f2soccer 申成男，在开发和测试过程中给了很多有益的建议。
+
+## 我们的部分客户
+英国德比郡梯队，深圳绿茵场青训、星未来流浪者、北师大深圳（小升初足球特长生选拔），赣州消防局等。
 
 ## 反馈您的建议
 
