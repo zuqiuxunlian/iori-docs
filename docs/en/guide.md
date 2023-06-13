@@ -101,7 +101,7 @@ Of course, we can also just take it as a mobile phone remote controller, with mo
 
 ### T-test
 
-The T-test includes accelerate, decelerate, shuffle, and backward, which are the basic movements required in soccer. Standard movement, and shorter completion time, the stronger the athletic ability.
+The T-test includes accelerate, decelerate, shuffle, and backward, which are the basic movements required in football. Standard movement, and shorter completion time, the stronger the athletic ability.
 
 [T test video](https://www.instagram.com/p/CgziY7tAAVw/)
 
@@ -109,17 +109,19 @@ The T-test includes accelerate, decelerate, shuffle, and backward, which are the
 
 The time it takes to complete 60 ball juggle. Drop the ball can be picked up to continue, the number continues to accumulate until the number of 60.
 
-## Early trial purchase
+## Official purchasing channel
 
-The product is not officially on sale yet. But I would love to hear feedback from all over the world. If you are a coach, you can contact me to buy samples.
+The product is officially on sale now. I would love to hear feedback from all over the world. 
 
-### Sample Price
+Amazon link: [https://www.amazon.com/dp/B0BWFXFXLQ](https://www.amazon.com/dp/B0BWFXFXLQ)
+
+If it is not possible to purchase from Amazon in your country, please contact me, pay with Paypal and I will ship for you separately.
+
+### Product Price
 
 | Package                                                            | Cost   |
 | ------------------------------------------------------------------ | ------ |
-| Timer x1                                                           | US$ 60 |
-| Timer x1 + Quick Release Plate(suitable for most camera tripod) x1 | US$ 70 |
-| Timer x1 + Heavy Tripod with Tray(height range 62-120cm) x1        | US$ 80 |
+| Timer x1 + Quick Release Plate(suitable for most camera tripod) x1 | US$ 60 |
 | Timer x1 + Quick Release Plate x1 + Heavy Tripod with Tray x1      | US$ 90 |
 
 <div align=center>
@@ -144,18 +146,16 @@ I want to keep shipping costs to a minimum. This is the best price I can get at 
 | REST OF ASIA | US$ 12.00 |
 | OTHER        | US$ 20.00 |
 
-**If you want tripod, the ship cost will be doubled.**
-
 You will be responsible for paying local Tax and duties when applicable. You will not always be required to pay duties or import tax, but it is important that you make yourself aware of the duties that apply in your country in case you are charged.
 
 ### Contact Us
 
-You can contact me on Facebook or Discord.
+You can contact me on Facebook Messager or Email.
 
 <!-- I'd like to better understand your needs. Please fill out this registration form [Register](https://forms.gle/Rt7e3TRPQyjXVVxJ9). Then contact me with facebook messenger. -->
 
-- Facebook Account: [https://www.facebook.com/awong1900](https://www.facebook.com/awong1900)
-- Discord Group: [https://discord.gg/3jR79tHb](https://discord.gg/3jR79tHb)
+- Facebook Page: [https://www.facebook.com/ioritimer](https://www.facebook.com/ioritimer)
+- Email: awong1900@163.com
 
 <!-- Paypal link: [https://paypal.me/awong1900](https://paypal.me/awong1900) -->
 

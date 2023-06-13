@@ -6,7 +6,7 @@ module.exports = {
       "meta",
       {
         name: "keywords",
-        content: "IORI计时器,IORI Timer,计时器,IORI,Timer,一起踢",
+        content: "IORI计时器,IORI Timer,计时器,IORITimer,Stopwatch",
       },
     ],
     [
@@ -33,12 +33,12 @@ module.exports = {
     "/": {
       lang: "zh-CN",
       title: "IORI计时器",
-      description: "A timer that children can use, a good helper for the coach",
+      description: "运动，由我记录",
     },
     "/en/": {
       lang: "en-US",
       title: "IORI Timer",
-      description: "",
+      description: "Simple Yet Powerful Timer for Soccer Training and Video Recording",
     },
   },
   themeConfig: {
