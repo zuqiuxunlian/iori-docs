@@ -86,8 +86,14 @@ This is perfect for the post-training group photo with Use a mobile phone tripod
 
 ## Charging instructions
 
-Normally, the battery is fully charged and can be used continuously for 10 hours.  
-Charging is done using the Type-C port, and the 5V1A charger takes 3 hours to fully charge. Remember to turn on Power Switch.
+Use the type-C charger to charge the device while **turning the power switch on**. 
+The 5V1A charger takes 3 hours to fully charge. 
+ 
+Under normal conditions, the battery can be used continuously for more than 10 hours. 
+ 
+::: danger Not recommended 
+Apple chargers are not supported 
+:::
 
 ::: tip
 You can use a timer to record the charging time.
@@ -111,7 +117,7 @@ The time it takes to complete 60 ball juggle. Drop the ball can be picked up to 
 
 ## Official purchasing channel
 
-The product is officially on sale now. I would love to hear feedback from all over the world. 
+The product is officially on sale now. 
 
 Amazon link: [https://www.amazon.com/dp/B0BWFXFXLQ](https://www.amazon.com/dp/B0BWFXFXLQ)
 
@@ -155,12 +161,12 @@ You can contact me on Facebook Messager or Email.
 <!-- I'd like to better understand your needs. Please fill out this registration form [Register](https://forms.gle/Rt7e3TRPQyjXVVxJ9). Then contact me with facebook messenger. -->
 
 - Facebook Page: [https://www.facebook.com/ioritimer](https://www.facebook.com/ioritimer)
-- Email: awong1900@163.com
+- Email: <awong1900@163.com>
 
 <!-- Paypal link: [https://paypal.me/awong1900](https://paypal.me/awong1900) -->
 
 ## About Us
 
-The product is designed by Shenzhen [Yiqiti Football Training Camp](https://zuqiuxunlian.github.io/en/) team.
+The product is designed by [Shenzhen Yiqiti Football Camp](https://zuqiuxunlian.github.io/en/) team.
 
 Many thanks to Coach Lu, Juca Grajau (Brazil) of Shenzhen FC116 Club, Coach Yang Bin of Shenzhen Rangers Club, Coach Xu Jianning of Xiamen City, Coach Yang of Wuhan Huangbei Jianxiao Club, and Coach Zhao of Football Salon. Many helpful suggestions were given during development and testing.

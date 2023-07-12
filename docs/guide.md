@@ -22,15 +22,15 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 
 #### 秒表
 
-秒表包括手机、运动手表等都有计时功能。但是有两个缺点，需要人协助去掐表。第二，手掐的开始和结束都有一定的误差。如果是做一个粗略的计时，它是一个好选择。
+秒表包括手机、运动手表等都有计时功能。但是有两个缺点，需要人协助去掐表。第二，手掐的开始和结束都有一定的误差。我们可以替代完全可以替代秒表的功能，并且时间可见，易于视频记录
 
 #### 红外/激光计时器
 
-通过无接触的方式去判断开始和结束，确实是目前最精准的方式，完全不影响运动表现。但是它价格也是非常的贵，相对操作也是有些门槛。如果你是自行车，摩托车计时这是唯一的选择。
+通过无接触的方式去判断开始和结束，确实是目前最精准的方式，完全不影响运动表现。但是它价格也是非常的贵，设备携带不方便，器材的操作门槛比较高。我们的操作更加简单，即使是个小学生都可以完全掌握。
 
 ### IORI 计时器的特点
 
-- 只有一个按钮，没有秒表那么多按钮，无从下手
+- 只有一个按钮，没有那么多按钮，无从下手
 - 只用一个人完成测试，无需协助，一人完成两人的工作
 - 连接手机，远程同步控制录制视频，分段记录，更容易整理
 - 创造竞争的训练氛围，促进提高所有人的运动表现
@@ -98,13 +98,13 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 
 ## 充电指导
 
-使用type-C充电器给设备充电，同时**把电源开关打开**。  
+使用 type-C 充电器给设备充电，同时**把电源开关打开**。  
 5V1A 的充电器充满需要 3 小时。
 
-正常情况，电池充满可以连续使用 12 小时以上。
+正常情况，电池充满可以连续使用 10 小时以上。
 
 ::: danger 不建议
-Mac 电脑 type-C 直接输出不可以充电。
+不支持苹果充电器
 :::
 
 ::: tip 提示
@@ -131,19 +131,31 @@ T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=899525712&bvid=BV1ZN4y1G7u7&cid=805073937&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 <div align=center>IORI T 字测试</div>
 
+### 平板支撑挑战
+
+1. 将计时器放置在胸口下，压住准备
+2. 撑起开始计时
+3. 力竭时再次按压结束计时
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=955793883&bvid=BV1ZN4y1G7u7&cid=1192170601&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<div align=center>平板支撑挑战</div>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=360677413&bvid=BV1ZX4y1H72n&cid=1189948751&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
+<div align=center>平板支撑团队挑战</div>
+
 ### 足球综合测试
-1. 连续触球30次的时间
-2. 颠球30次的时间
-3. 4个碟子折返跑（无球）
-4. 4个碟子折返跑（带球）
+
+1. 连续触球 30 次的时间
+2. 颠球 30 次的时间
+3. 4 个碟子折返跑（无球）
+4. 4 个碟子折返跑（带球）
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=857066330&bvid=BV1tV4y1s7jB&cid=805494948&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
 ## 官方购买渠道
 
-淘宝：[https://item.taobao.com/item.htm?ft=t&id=687250935119](https://item.taobao.com/item.htm?ft=t&id=687250935119)
-抖音号：一起踢足球训练营，橱窗可购买    
-视频号：一起踢足球训练营，橱窗可购买    
+淘宝：[https://item.taobao.com/item.htm?ft=t&id=687250935119](https://item.taobao.com/item.htm?ft=t&id=687250935119)  
+京东：[https://item.jd.com/10080379147450.html](https://item.jd.com/10080379147450.html)
 
 ## 教练可申请样品试用
 
@@ -158,6 +170,7 @@ T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这
 非常感谢：深圳 FC116 俱乐部 卢教练、Juca Grajaú（巴西）、深圳流浪者教练 杨斌、厦门教练 许建宁、武汉黄陂剑箫 杨教练、足球教练沙龙 赵瑞田，深圳 f2soccer 申成男，在开发和测试过程中给了很多有益的建议。
 
 ## 我们的部分客户
+
 英国德比郡梯队，深圳绿茵场青训、星未来流浪者、北师大深圳（小升初足球特长生选拔），赣州消防局等。
 
 ## 反馈您的建议
