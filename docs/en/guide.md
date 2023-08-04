@@ -17,11 +17,11 @@ Evaluation is an essential part of training, so do we have tools to use?
 
 #### Stopwatch
 
-Stopwatches, including mobile phones and sports watches, have timing functions. However, it has two disadvantages. First, it needs help pressing start. Second, there is a certain error in the beginning and end of the hand press. If you're doing a rough timing, it's a good choice.
+Stopwatches, including mobile phones and sports watches, have timing functions. But there are two disadvantages. You need someone to help you set the watch. Second, there are certain errors in the beginning and end of the hand pinch. We can replace the function of a stopwatch that can be completely replaced, and the time is visible and easy to video record.
 
 #### Infrared/laser timer
 
-The non-contact way to trigge the start and end is indeed the most accurate way at present, which does not affect athletic performance at all. But its price is very high, and the operation is relatively complicated. If you are a bicycle, motorcycle timing is the only option.
+To judge the beginning and end by a non-contact way is indeed the most accurate way at present, and does not affect sports performance at all. However, its price is also very expensive, the equipment is not convenient to carry, and the operation threshold of the equipment is relatively high. Our operation is much simpler, even the children can fully master.
 
 ### IORI timer features
 
