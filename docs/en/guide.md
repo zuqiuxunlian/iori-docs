@@ -78,21 +78,56 @@ This is perfect for the post-training group photo with Use a mobile phone tripod
 
 ## Install to the tripod
 
-1. Remove the tray from the tripod
-2. Place the IORI timer on the tray
-3. Lock from below using the supplied screws
+### Speaker Stand (Recommended)
 
-<img src="./images/tripod.png" width="500"/>
+35mm thick adjustable steel tripod, Suitable for fixed place use. Not easy to tip over when press or tap. Such as [Amazon Basics Adjustable Speaker Stand - 4.1 to 6.6-Foot, Steel](https://a.co/d/imwDcyr)
+
+Easy install, Just use the included tray and lock the four corners. Then you can lock it on a tripod.
+
+<img src="./images/tripod-1.jpg" width="350"/>
+<img src="./images/tripod-2.jpg" width="350"/>
+
+### Camera Tripod
+
+When you go out to use, a light tripod is a must, here recommend carbon fiber tripod, one is light weight, the second is strong.
+
+**Lightweight and robust carbon fiber tripod (Recommended)**
+
+Installation:
+
+1. Lock the quick release plate to the bottom of the timer
+2. Use a tripod head or 1/4 screw to fix
+3. Check the diagram below
+
+<img src="./images/qrp-1.jpg" width="350"/>
+<img src="./images/qrp-2.jpg" width="350"/>
+<img src="./images/qrp-4.jpg" width="350"/>
+<img src="./images/qrp-3.jpg" width="350"/>
+<img src="./images/qrp-5.jpg" width="350"/>
+<img src="./images/qrp-6.jpg" width="350"/>
+
+**Cheap aluminum tripod (Not recommended)**
+
+Cheap aluminum tripod because of poor bearing capacity, easy to instability.
+
+Installation:
+
+1. Lock the quick release plate to the bottom of the timer
+2. Use a 1/4 screw to fix
+3. Check the diagram below
+
+<img src="./images/qrp-7.jpg" width="350"/>
+<img src="./images/qrp-8.jpg" width="350"/>
 
 ## Charging instructions
 
-Use the type-C charger to charge the device while **turning the power switch on**. 
-The 5V1A charger takes 3 hours to fully charge. 
- 
-Under normal conditions, the battery can be used continuously for more than 10 hours. 
- 
-::: danger Not recommended 
-Apple chargers are not supported 
+Use the type-C charger to charge the device while **turning the power switch on**.
+The 5V1A charger takes 3 hours to fully charge.
+
+Under normal conditions, the battery can be used continuously for more than 10 hours.
+
+::: danger Not recommended
+Apple chargers are not supported
 :::
 
 ::: tip
@@ -117,7 +152,7 @@ The time it takes to complete 60 ball juggle. Drop the ball can be picked up to 
 
 ## Official purchasing channel
 
-The product is officially on sale now. 
+The product is officially on sale now. I would love to hear feedback from all over the world.
 
 Amazon link: [https://www.amazon.com/dp/B0BWFXFXLQ](https://www.amazon.com/dp/B0BWFXFXLQ)
 
