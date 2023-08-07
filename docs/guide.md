@@ -120,6 +120,12 @@ IORI 计时器是一个简单易用的计时器，可以快速协助教练完成
 <img src="./images/qrp-7.jpg" width="350"/>
 <img src="./images/qrp-8.jpg" width="350"/>
 
+## 如何防水
+
+目前计时器本身还不支持防水。如果被雨淋，从按钮等地方会渗进雨水，会严重缩短使用寿命。为此，我们提供了简单的防水袋，可以满足在下雨天使用。
+
+<img src="./images/waterproof.jpg" width="350"/>
+
 ## 充电指导
 
 使用 type-C 充电器给设备充电，同时**把电源开关打开**。  
@@ -178,13 +184,14 @@ T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这
 
 ## 官方购买渠道
 
-淘宝：[https://item.taobao.com/item.htm?ft=t&id=687250935119](https://item.taobao.com/item.htm?ft=t&id=687250935119)
-抖音号：一起踢足球训练营，橱窗可购买  
-视频号：一起踢足球训练营，橱窗可购买
+我们已正式在各大平台进行销售。
 
-## 教练可申请样品试用
+- 淘宝：[https://item.taobao.com/item.htm?ft=t&id=687250935119](https://item.taobao.com/item.htm?ft=t&id=687250935119)
+- 京东：[https://item.jd.com/10080379147451.html](https://item.jd.com/10080379147451.html)
 
-带队的教练，无论您是社区教练还是青训教练，都可以申请样品试用。只需填写申请表，提供带队照片即可。
+## 样品试用
+
+如果你是带队的教练，无论您是社区教练还是青训教练，都可以申请样品试用。只需填写申请表，提供带队照片即可。
 
 [【腾讯文档】IORI 计时器教练试用申请表](https://docs.qq.com/form/page/DUmFoaXlCQnZQU3Zz)
 

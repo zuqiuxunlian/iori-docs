@@ -38,7 +38,8 @@ module.exports = {
     "/en/": {
       lang: "en-US",
       title: "IORI Timer",
-      description: "Simple Yet Powerful Timer for Soccer Training and Video Recording",
+      description:
+        "Simple Yet Powerful Timer for Soccer Training and Video Recording",
     },
   },
   themeConfig: {
@@ -72,7 +73,10 @@ module.exports = {
         nav: [
           { text: "Home", link: "/en/" },
           { text: "Guide", link: "/en/guide/" },
-          { text: "Buy", link: "/en/guide.html#official-purchasing-channel" },
+          {
+            text: "Buy",
+            link: "/en/guide.html#official-sales-channel",
+          },
           // {
           //   text: "视频合集",
           //   link: "https://www.bilibili.com/video/BV1ZN4y1G7u7",

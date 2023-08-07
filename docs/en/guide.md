@@ -119,6 +119,12 @@ Installation:
 <img src="./images/qrp-7.jpg" width="350"/>
 <img src="./images/qrp-8.jpg" width="350"/>
 
+## How waterproof
+
+The timer itself is not currently waterproof. If it is rained on, rain will seep into the button and other places, which will seriously shorten the product life. To this end, we offer simple waterproof bags that can be used on rainy days.
+
+<img src="./images/waterproof.jpg" width="350"/>
+
 ## Charging instructions
 
 Use the type-C charger to charge the device while **turning the power switch on**.
@@ -134,44 +140,24 @@ Apple chargers are not supported
 You can use a timer to record the charging time.
 :::
 
-## Classic Test
-
-The IORI timer performs all tests with consistent start and end points. Such as shuttle run, T-test and so on. When we design our training program, we try to have the same start and end point. In addition, the IORI timer can be used to test time challenges, such as the maximum time to juggle continuously and the time to plank.
-
-Of course, we can also just take it as a mobile phone remote controller, with mobile phone and mobile phone tripod, can be very convenient for training video recording.
-
-### T-test
-
-The T-test includes accelerate, decelerate, shuffle, and backward, which are the basic movements required in football. Standard movement, and shorter completion time, the stronger the athletic ability.
-
-[T test video](https://www.instagram.com/p/CgziY7tAAVw/)
-
-### 60 ball juggling challenge
-
-The time it takes to complete 60 ball juggle. Drop the ball can be picked up to continue, the number continues to accumulate until the number of 60.
-
-## Official purchasing channel
+## Official sales channel
 
 The product is officially on sale now. I would love to hear feedback from all over the world.
 
-Amazon link: [https://www.amazon.com/dp/B0BWFXFXLQ](https://www.amazon.com/dp/B0BWFXFXLQ)
+| Item                                                                   | Link                                                                                                                  |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Timer x1 + Quick Release Plate x1 + Tripod Tray x1 + Waterproof bag x1 | [Amazon link](https://www.amazon.com/dp/B0BWFXFXLQ)                                                                   |
+| Speaker Stand Tripod                                                   | [Amazon Basics Adjustable Speaker Stand](https://a.co/d/0aRU0kz) or [5 Core PA Speaker Stand](https://a.co/d/9arTzGT) |
 
 If it is not possible to purchase from Amazon in your country, please contact me, pay with Paypal and I will ship for you separately.
 
 ### Product Price
 
-| Package                                                            | Cost   |
-| ------------------------------------------------------------------ | ------ |
-| Timer x1 + Quick Release Plate(suitable for most camera tripod) x1 | US$ 60 |
-| Timer x1 + Quick Release Plate x1 + Heavy Tripod with Tray x1      | US$ 90 |
+| Package                                                                | Cost   |
+| ---------------------------------------------------------------------- | ------ |
+| Timer x1 + Quick Release Plate x1 + Tripod Tray x1 + Waterproof bag x1 | US$ 70 |
 
-<div align=center>
-<img src="./images/qr.jpg" width="200" />
-
-<img src="./images/tripod.jpg" width="200" />
-<br>
-Quick Release Plate & Heavy Tripod with Tray
-</div>
+<img src="./images/package.jpg" width="350" />
 
 ### Shipping & Taxes
 
@@ -188,6 +174,22 @@ I want to keep shipping costs to a minimum. This is the best price I can get at 
 | OTHER        | US$ 20.00 |
 
 You will be responsible for paying local Tax and duties when applicable. You will not always be required to pay duties or import tax, but it is important that you make yourself aware of the duties that apply in your country in case you are charged.
+
+## Classic Test
+
+The IORI timer performs all tests with consistent start and end points. Such as shuttle run, T-test and so on. When we design our training program, we try to have the same start and end point. In addition, the IORI timer can be used to test time challenges, such as the maximum time to juggle continuously and the time to plank.
+
+Of course, we can also just take it as a mobile phone remote controller, with mobile phone and mobile phone tripod, can be very convenient for training video recording.
+
+### T-test
+
+The T-test includes accelerate, decelerate, shuffle, and backward, which are the basic movements required in football. Standard movement, and shorter completion time, the stronger the athletic ability.
+
+[T test video](https://www.instagram.com/p/CgziY7tAAVw/)
+
+### 60 ball juggling challenge
+
+The time it takes to complete 60 ball juggle. Drop the ball can be picked up to continue, the number continues to accumulate until the number of 60.
 
 ### Contact Us
 
