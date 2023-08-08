@@ -142,12 +142,12 @@ You can use a timer to record the charging time.
 
 ## Official sales channel
 
-The product is officially on sale now. I would love to hear feedback from all over the world.
+The product is officially on sale now. I would love to hear feedback from all over the world. The package includes Timer x1, Quick Release Plate x1, Tripod Tray x1, Waterproof bag x1.
 
-| Item                                                                   | Link                                                                                                                  |
-| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Timer x1 + Quick Release Plate x1 + Tripod Tray x1 + Waterproof bag x1 | [Amazon link](https://www.amazon.com/dp/B0BWFXFXLQ)                                                                   |
-| Speaker Stand Tripod                                                   | [Amazon Basics Adjustable Speaker Stand](https://a.co/d/0aRU0kz) or [5 Core PA Speaker Stand](https://a.co/d/9arTzGT) |
+| Item                                                                   | Link                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Timer x1 + Quick Release Plate x1 + Tripod Tray x1 + Waterproof bag x1 | [Amazon USA](https://a.co/d/g2VKhQx), [Amazon CANADA](https://a.co/d/4ozXH15), [Amazon UK](https://amzn.eu/d/faylrd2), [Amazon FRANCE](https://amzn.eu/d/5JPGAHF), [Amazon AUSTRILA](https://amzn.asia/d/bvuYhCp), [Amazon JAPAN](https://amzn.asia/d/1p86HBz) |
+| Speaker Stand Tripod                                                   | [Amazon Basics Adjustable Speaker Stand](https://a.co/d/0aRU0kz) or [5 Core PA Speaker Stand](https://a.co/d/9arTzGT)                                                                                                                                          |
 
 If it is not possible to purchase from Amazon in your country, please contact me, pay with Paypal and I will ship for you separately.
 
