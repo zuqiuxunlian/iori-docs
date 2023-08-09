@@ -189,11 +189,11 @@ T 字测试包含冲刺、减速、横向侧滑步、后退等步伐动作，这
 - 淘宝：[https://item.taobao.com/item.htm?ft=t&id=687250935119](https://item.taobao.com/item.htm?ft=t&id=687250935119)
 - 京东：[https://item.jd.com/10080379147451.html](https://item.jd.com/10080379147451.html)
 
-## 样品试用
+<!-- ## 样品试用
 
 如果你是带队的教练，无论您是社区教练还是青训教练，都可以申请样品试用。只需填写申请表，提供带队照片即可。
 
-[【腾讯文档】IORI 计时器教练试用申请表](https://docs.qq.com/form/page/DUmFoaXlCQnZQU3Zz)
+[【腾讯文档】IORI 计时器教练试用申请表](https://docs.qq.com/form/page/DUmFoaXlCQnZQU3Zz) -->
 
 ## 关于我们
 
