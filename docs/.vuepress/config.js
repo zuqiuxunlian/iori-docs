@@ -52,6 +52,10 @@ module.exports = {
         nav: [
           { text: "主页", link: "/" },
           { text: "指南", link: "/guide/" },
+          {
+            text: "测试教案",
+            link: "/drill/",
+          },
           { text: "购买", link: "/guide.html#官方购买渠道" },
           {
             text: "视频合集",
@@ -86,7 +90,19 @@ module.exports = {
         // editLinkText: "Edit this page on GitHub",
       },
     },
-    sidebar: "auto",
+    sidebar: {
+      "/drill/": [
+        "",
+        "Common",
+        "Football-soccer",
+        "Football-rugby",
+        "Frisbee",
+        "Basketball",
+        "Baseball",
+        "Other",
+      ],
+    },
+    displayAllHeaders: false, // 默认值：false
     smoothScroll: true,
     // repo: "zuqiuxunlian/iori-docs",
     // docsBranch: "main",
