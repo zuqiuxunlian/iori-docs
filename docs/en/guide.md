@@ -1,3 +1,8 @@
+---
+editLink: false
+sidebar: auto
+---
+
 # Guide
 
 ## Introduction
@@ -127,17 +132,19 @@ The timer itself is not currently waterproof. If it is rained on, rain will seep
 
 ## Charging instructions
 
-Use the type-C charger to charge the device while **turning the power switch on**.
-The 5V1A charger takes 3 hours to fully charge.
+Use the USB Type-C to charge the device while **turning on the power switch**.  
+After the actual test, it takes **10 hours** to fully fill, and full can be used for **19 hours**.
 
-Under normal conditions, the battery can be used continuously for more than 10 hours.
+<img src="./images/battery-time.jpg" width="350"/>
 
-::: danger Not recommended
-Apple chargers are not supported
-:::
+About 1 hour of charging and 2 hours of use.
 
 ::: tip
 You can use a timer to record the charging time.
+:::
+
+::: danger Not supported
+Apple chargers are not supported
 :::
 
 ## Official sales channel

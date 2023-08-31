@@ -52,10 +52,10 @@ module.exports = {
         nav: [
           { text: "主页", link: "/" },
           { text: "指南", link: "/guide/" },
-          {
-            text: "测试教案",
-            link: "/drill/",
-          },
+          // {
+          //   text: "测试教案",
+          //   link: "/drill/",
+          // },
           { text: "购买", link: "/guide.html#官方购买渠道" },
           {
             text: "视频合集",
@@ -87,7 +87,7 @@ module.exports = {
           // },
         ],
         lastUpdated: "Last Updated", // string | boolean
-        // editLinkText: "Edit this page on GitHub",
+        editLinkText: "Edit this page on GitHub",
       },
     },
     sidebar: {

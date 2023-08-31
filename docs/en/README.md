@@ -7,18 +7,17 @@ actionText: Get Started →
 actionLink: /en/guide/
 features:
   - title: High Precision Timing
-    details: Accurate to 1/1000 of a second, perfect for timing sprints and other speed training. 
+    details: Accurate to 1/1000 of a second, perfect for timing sprints and other speed training.
   - title: Simple and Easy to Use
-    details: With one press to start and stop, simple operation makes it easy to learn and use. 
+    details: With one press to start and stop, simple operation makes it easy to learn and use.
   - title: Video Recording Controller
-    details: Not just a simple timer, it's also a video recording controller. Start and stop your smartphone video recording with the push of a button. 
+    details: Not just a simple timer, it's also a video recording controller. Start and stop your smartphone video recording with the push of a button.
   - title: Kid Friendly
-    details: Simple to use, no adult help needed. Perfect for children's sports training. 
+    details: Simple to use, no adult help needed. Perfect for children's sports training.
   - title: Gaming Level Buttons
-    details: Features oversized, highly responsive buttons that provide satisfying feedback when pressed. Enhanced button feeling inspires competitive atmosphere during training or matches. 
+    details: Features oversized, highly responsive buttons that provide satisfying feedback when pressed. Enhanced button feeling inspires competitive atmosphere during training or matches.
   - title: Long Battery Life
-    details: Up to 10 hours of continuous use, meeting most outdoor sports needs without frequent charging.
-
+    details: Up to 15 hours of continuous use, meeting most outdoor sports needs without frequent charging.
 # footer: Copyright © 2022 一起踢足球训练营
 ---
 
