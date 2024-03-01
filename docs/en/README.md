@@ -21,7 +21,7 @@ features:
   - title: Gaming Level Buttons
     details: Features oversized, highly responsive buttons that provide satisfying feedback when pressed. Enhanced button feeling inspires competitive atmosphere during training or matches.
   - title: Long Battery Life
-    details: Up to 15 hours of continuous use, meeting most outdoor sports needs without frequent charging.
+    details: Up to 12 hours of continuous use, meeting most outdoor sports needs without frequent charging.
 # footer: Copyright © 2022 一起踢足球训练营
 ---
 
