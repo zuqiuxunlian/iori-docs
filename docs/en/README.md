@@ -2,14 +2,18 @@
 home: true
 heroImage: /iori.jpeg
 heroText: IORI Timer
-tagline: Simple Yet Powerful Timer for Football Training and Video Recording
+tagline: Elevate Every Second, Connect Every Moment – Redefining Excellence in Training!
 actionText: Get Started →
 actionLink: /en/guide/
 features:
   - title: High Precision Timing
-    details: Accurate to 1/1000 of a second, perfect for timing sprints and other speed training.
+    details: Accurate to 1/100 of a second, perfect for timing sprints and other speed training.
   - title: Simple and Easy to Use
     details: With one press to start and stop, simple operation makes it easy to learn and use.
+  - title: Infrared Laser Trigger
+    details: Experience unrivaled accuracy with the advanced Infrared Laser Trigger. Activate your timer with a beam of precision, ensuring instant and reliable timing initiation. Whether for reaction time testing or rapid start synchronization, the Infrared Laser Trigger takes precision to the next level.
+  - title: TwinLink Connectivity
+    details: Enabling seamless connectivity among two or more timers. Synchronize, coordinate, and enhance your training sessions with the power of synchronized timing.
   - title: Video Recording Controller
     details: Not just a simple timer, it's also a video recording controller. Start and stop your smartphone video recording with the push of a button.
   - title: Kid Friendly
