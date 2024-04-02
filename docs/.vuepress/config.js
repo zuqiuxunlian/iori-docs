@@ -52,6 +52,14 @@ module.exports = {
         nav: [
           { text: "主页", link: "/" },
           { text: "指南", link: "/guide/" },
+          {
+            text: "型号",
+            ariaLabel: "Language Menu",
+            items: [
+              { text: "IORI 1S", link: "/iori-1/" },
+              { text: "IORI PRO", link: "/iori-pro/" },
+            ],
+          },
           // {
           //   text: "测试教案",
           //   link: "/drill/",

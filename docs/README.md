@@ -4,7 +4,7 @@ heroImage: /iori.jpeg
 heroText: IORI计时器
 tagline: 运动，由你记录
 actionText: 快速开始 →
-actionLink: /guide/
+actionLink: /iori-pro/
 features:
   - title: 超简单操作
     details: 只需要通过1个按键就可以完成所有功能操作，无需复杂的设置和编程，超级易用，操作简单。
