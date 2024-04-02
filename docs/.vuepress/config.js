@@ -51,7 +51,7 @@ module.exports = {
         lastUpdated: "最后更新",
         nav: [
           { text: "主页", link: "/" },
-          { text: "指南", link: "/guide/" },
+          { text: "指南", link: "/iori-pro/" },
           {
             text: "型号",
             ariaLabel: "Language Menu",
