@@ -64,7 +64,7 @@ module.exports = {
           //   text: "测试教案",
           //   link: "/drill/",
           // },
-          { text: "购买", link: "/guide.html#官方购买渠道" },
+          // { text: "购买", link: "/guide.html#官方购买渠道" },
           {
             text: "视频合集",
             link: "https://www.bilibili.com/video/BV1ZN4y1G7u7",
