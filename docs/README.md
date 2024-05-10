@@ -27,13 +27,9 @@ features:
 # footer: Copyright © 2021-2024 一起踢足球训练营
 ---
 
+<video width="100%"  max-width="500" src="./images/pro/Tsinghua.mp4" controls autoplay muted></video>
+
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=1454148484&bvid=BV15i421k7ak&cid=1531825155&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
-
-</br>
-
-<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=1001119472&bvid=BV1ex4y1C7RN&cid=1455961875&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
-
-<video src="https://learn.zuqiuxunlian.com/learn%2FTEST%2F%E4%B8%AD%E5%9B%BD%E8%B6%B3%E5%8D%8F%E5%A5%B3%E8%B6%B3%E9%9D%92%E8%AE%AD%E4%B8%AD%E5%BF%83%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89%E5%A5%B3%E8%B6%B3%E7%B2%BE%E8%8B%B1%E8%AE%AD%E7%BB%83%E8%90%A5%E7%AC%AC%E4%B8%80%E6%9C%9F%E9%9B%86%E8%AE%AD%E6%B4%BB%E5%8A%A8%2FU11-%E7%B2%89%E9%98%9F-30%E7%B1%B3%E5%86%B2%E5%88%BA%EF%BD%9C5%E7%B1%B3%E5%88%86%E6%AE%B5%2F128-2.mp4" controls></video>
 
 <!-- <div align=center>
 <img src="./images/iori-1.jpg" width="498"/>
