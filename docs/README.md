@@ -1,27 +1,27 @@
 ---
 home: true
-heroImage: /iori.jpeg
+heroImage: /iori.png
 heroText: IORI计时器
-tagline: 运动，由你记录
+tagline: 速度，由你记录
 actionText: 快速开始 →
 actionLink: /iori-pro/
 features:
   - title: 超简单操作
-    details: 只需要通过1个按键就可以完成所有功能操作，超级易用，操作简单。
+    details: 只需1个按键就可以完成所有功能操作，超级易用，操作简单。
   - title: 高精度计时
     details: 采用高精度晶振和MCU，计时精度可以达到1/100秒，完全满足各种运动计时需求。
   - title: 红外激光触发
-    details: 无需反光板，体验无与伦比的精度与先进的红外激光触发器。
+    details: 无反光板设计，开机即用，体验无与伦比的精度与先进的红外激光触发器。
   - title: 双机互联
-    details: 起点和终点通过无线连接，冲刺跑测试更加精准。
+    details: 起点和终点通过无线连接，连接距离覆盖田径场，冲刺跑测试更加精准。
   - title: 分段计时
-    details: 允许多个计时器之间的无线连接。增加更多计时点，数据记录一次记录。
+    details: 允许多个计时器之间的无线连接。更多计时点，更多数据一次记录。
   - title: 自动录像
     details: 一键启录，通过蓝牙连接控制手机视频录制，实现全自动录像与视觉数据采集。
   - title: 游戏级按钮
     details: 采用超大体积按钮，抗击打，适合快速拍击操作，确保速度和耐用性。
   - title: 儿童友好
-    details: 使用简单，不需要成人帮助。适合儿童运动训练。
+    details: 使用简单，不需要成人帮助。大按钮适合儿童运动训练，打造竞争氛围。
   - title: 长续航电池
     details: 采用大容量可充电电池，可以连续工作12小时以上，无需频繁充电，很适合长时间运动或训练。
 # footer: Copyright © 2021-2024 一起踢足球训练营
