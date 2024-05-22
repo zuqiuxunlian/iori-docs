@@ -27,7 +27,7 @@ features:
 # footer: Copyright © 2021-2024 一起踢足球训练营
 ---
 
-<video width="100%"  max-width="500" src="./images/pro/Tsinghua.mp4" controls autoplay muted></video>
+<video width="100%" height="630" src="./images/pro/Tsinghua.mp4" controls autoplay loop muted></video>
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=1454148484&bvid=BV15i421k7ak&cid=1531825155&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"> </iframe></div>
 
