@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /iori.jpeg
+heroImage: /iori.png
 heroText: IORI Timer
 tagline: Elevate Every Second, Connect Every Moment – Redefining Excellence in Training!
 actionText: Get Started →
