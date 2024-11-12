@@ -1,0 +1,3 @@
+Sitemap: https://zuqiuxunlian.com/iori/sitemap.xml
+
+User-agent: *
